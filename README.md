@@ -7,7 +7,6 @@
 **Students:**  
 - **Teo Jia En** (102777416)  
 - **Jayne Wong Hieng Siew** (102776536)  
-- **Hassan Al Bayati** (104000114)  
 
 ---
 
