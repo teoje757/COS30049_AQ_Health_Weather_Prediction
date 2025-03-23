@@ -1,0 +1,4 @@
+# Ignore virtual environments and large files
+backend/new_venv/
+*.dll
+*.lib
